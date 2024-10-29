@@ -7,6 +7,8 @@
 // @match         https://www.youtube.com/watch*
 // @require       https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @require       https://gist.githubusercontent.com/BrockA/2625891/raw/9c97aa67ff9c5d56be34a55ad6c18a314e5eb548/waitForKeyElements.js
+// @updateURL     https://raw.githubusercontent.com/Ryah/Custom-Youtube-Subtitles/main/customYoutubeSubtitles.user.js
+// @downloadURL	  https://raw.githubusercontent.com/Ryah/Custom-Youtube-Subtitles/main/customYoutubeSubtitles.user.js
 // @run-at        document-start
 // @version       1.0
 // ==/UserScript==
