@@ -8,7 +8,7 @@
 // @require       https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @require       https://gist.githubusercontent.com/BrockA/2625891/raw/9c97aa67ff9c5d56be34a55ad6c18a314e5eb548/waitForKeyElements.js
 // @run-at        document-start
-// @version       0.3
+// @version       1.0
 // ==/UserScript==
 
 // This was forked and modified using https://gist.github.com/jcchikikomori/76980b85caad942f94b8ec2deb3e04ff as a base.
