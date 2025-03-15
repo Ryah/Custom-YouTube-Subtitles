@@ -3,10 +3,13 @@
 ![preview](https://github.com/user-attachments/assets/dace5599-ef7e-4edc-9eff-b68406f464c4)
 
 # Installation
-1) Install the extension [Tampermonkey](https://www.tampermonkey.net/) (Only tested on Tampermonkey but should also work on ViolentMonekey or Greasemonkey.)
-3) [Click Here to install the script](https://raw.githubusercontent.com/Ryah/Custom-Youtube-Subtitles/main/customYoutubeSubtitles.user.js)
+1) Install the extension Stylus ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)/[Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en))
+3) [Click Here to install the script](https://raw.githubusercontent.com/Ryah/Custom-Youtube-Subtitles/main/customYoutubeSubtitles.css)
 
 ## Version Changelog
+
+### [2.0] - 2025-03-15
+- Finally had the realization that using an extension that is made to inject JS isn't the best way to inject custom CSS. So this was ported to Stylish/Stylus (I personally recommend and will link Stylus).
 
 ### [1.0] - 2024-10-29
 
