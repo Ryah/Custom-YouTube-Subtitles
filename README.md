@@ -1,6 +1,7 @@
 # Youtube Netflix-Like Subtitles
 
-![preview](https://github.com/user-attachments/assets/dace5599-ef7e-4edc-9eff-b68406f464c4)
+![preview](https://github.com/user-attachments/assets/ba7b9008-3613-44a2-80ae-f33a7fe24c1d)
+
 
 # Installation
 1) Install the extension Stylus ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)/[Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en))
