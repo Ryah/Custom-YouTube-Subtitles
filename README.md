@@ -5,7 +5,7 @@
 
 # Installation
 1) Install the extension Stylus ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)/[Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en))
-3) [Click Here to install the script](https://raw.githubusercontent.com/Ryah/Custom-Youtube-Subtitles/main/customYoutubeSubtitles.css)
+3) [Click Here to install the script](https://userstyles.world/style/21708/default-slug)
 
 ## Version Changelog
 
